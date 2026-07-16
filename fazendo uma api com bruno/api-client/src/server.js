@@ -1,6 +1,7 @@
 import express from 'express'
 import fruitRoutes from './routes/frutiRoutes.js'
 
+
 const app = express()
 const PORT = 3000
 
